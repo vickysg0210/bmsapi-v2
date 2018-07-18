@@ -1,1 +1,8 @@
-# bmsapi-v2
+
+## Install dependencies
+
+ ```yarn```
+
+## Run the app
+
+ ```yarn start```
